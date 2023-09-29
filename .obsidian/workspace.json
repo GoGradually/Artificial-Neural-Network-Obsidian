@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3679dc5f22311b39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "caccbfba1b46c704",
@@ -138,6 +148,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a6984b20bf97b93a",
-  "lastOpenFiles": []
+  "active": "3679dc5f22311b39",
+  "lastOpenFiles": [
+    "hyper parameter.md",
+    "인공 신경망.md",
+    "Logistic Regression.md",
+    "시그모이드(Sigmoid) 함수.md",
+    "Activation function.md",
+    "model parameter.md",
+    "역전파(Backpropagation).md",
+    "Gradient Descent.md",
+    "Pasted image 20230929152918.png",
+    "Linear Regression.md",
+    "Traning.md",
+    "Cost Function.md",
+    "Loss Function.md",
+    "리키 렐루(Leaky ReLU) 함수.md",
+    "Pasted image 20230929152452.png",
+    "렐루(ReLU, Rectified Linear Unit) 함수.md",
+    "Pasted image 20230929152434.png",
+    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
+    "Pasted image 20230929152410.png",
+    "Pasted image 20230929152354.png",
+    "Pasted image 20230929151615.png",
+    "Neuron.md",
+    "Pasted image 20230929150601.png",
+    "Classification vs Regression.md"
+  ]
 }
