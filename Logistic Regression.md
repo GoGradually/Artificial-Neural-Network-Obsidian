@@ -10,3 +10,5 @@ $$L(\hat{y}, y) = -ylog(\hat{y}) - (1-y)log(1-\hat{y})$$
 $$J(w, b) = \frac{1}{m}\displaystyle\sum_{i=1}^{m}L(\hat{y}^{(i)}, y^{(i)})$$
 Derivative of Logistic Regression -> [[역전파(Backpropagation)]]에 응용
 ![[Pasted image 20230929152918.png]]
+
+[[Logistic Regression의 한계]]

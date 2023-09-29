@@ -19,8 +19,12 @@
             "id": "3679dc5f22311b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deep Neural Network(DNN).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deep Neural Network(DNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deep Neural Network(DNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deep Neural Network(DNN).md"
+              }
             }
           }
         ]
@@ -150,29 +158,41 @@
   },
   "active": "3679dc5f22311b39",
   "lastOpenFiles": [
-    "hyper parameter.md",
     "인공 신경망.md",
-    "Logistic Regression.md",
-    "시그모이드(Sigmoid) 함수.md",
-    "Activation function.md",
-    "model parameter.md",
-    "역전파(Backpropagation).md",
+    "Deep Neural Network(DNN).md",
+    "역전파의 Vectorization.md",
     "Gradient Descent.md",
-    "Pasted image 20230929152918.png",
+    "Pasted image 20230929174923.png",
+    "역전파(Backpropagation).md",
+    "Pasted image 20230929174702.png",
+    "Pasted image 20230929174405.png",
+    "Shallow Neural Network(SNN).md",
+    "SNN의 역전파 과정.md",
+    "Pasted image 20230929174304.png",
+    "Activation function.md",
+    "Leakly ReLU.md",
+    "ReLU.md",
+    "Vanishing Gradient.md",
+    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
+    "hidden layer.md",
+    "Pasted image 20230929160640.png",
+    "Pasted image 20230929160518.png",
+    "Pasted image 20230929160458.png",
+    "Logistic Regression.md",
+    "Logistic Regression의 한계.md",
+    "Pasted image 20230929160338.png",
+    "Hyperparameter.md",
+    "Learning Rate.md",
+    "에포크(epoch).md",
+    "Pasted image 20230929155127.png",
+    "Evaluation of Algorithm.md",
+    "Pasted image 20230929155004.png",
+    "시그모이드(Sigmoid) 함수.md",
+    "model parameter.md",
     "Linear Regression.md",
     "Traning.md",
     "Cost Function.md",
     "Loss Function.md",
-    "리키 렐루(Leaky ReLU) 함수.md",
-    "Pasted image 20230929152452.png",
-    "렐루(ReLU, Rectified Linear Unit) 함수.md",
-    "Pasted image 20230929152434.png",
-    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
-    "Pasted image 20230929152410.png",
-    "Pasted image 20230929152354.png",
-    "Pasted image 20230929151615.png",
-    "Neuron.md",
-    "Pasted image 20230929150601.png",
-    "Classification vs Regression.md"
+    "Neuron.md"
   ]
 }
