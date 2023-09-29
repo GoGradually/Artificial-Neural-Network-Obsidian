@@ -19,12 +19,8 @@
             "id": "3679dc5f22311b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Neural Network(DNN).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Neural Network(DNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Neural Network(DNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deep Neural Network(DNN).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,40 +151,39 @@
   "active": "3679dc5f22311b39",
   "lastOpenFiles": [
     "인공 신경망.md",
+    "Stochastic Gradient Descent(SGD).md",
+    "진짜 Stochastic Gradient Descent.md",
+    "Stochastic Gradient Descent vs. Gradient Descent.md",
+    "Pasted image 20230929223841.png",
+    "Pasted image 20230929223810.png",
+    "Pasted image 20230929223743.png",
+    "Pasted image 20230929223709.png",
+    "Pasted image 20230929223646.png",
+    "Pasted image 20230929223600.png",
+    "Pasted image 20230929223218.png",
+    "Pasted image 20230929223159.png",
+    "Pasted image 20230929223139.png",
+    "Pasted image 20230929223118.png",
+    "다중 분류(Multi-class Classification).md",
+    "소프트맥스(Softmax).md",
+    "Activation function.md",
     "Deep Neural Network(DNN).md",
-    "역전파의 Vectorization.md",
     "Gradient Descent.md",
-    "Pasted image 20230929174923.png",
+    "역전파의 Vectorization.md",
     "역전파(Backpropagation).md",
-    "Pasted image 20230929174702.png",
-    "Pasted image 20230929174405.png",
     "Shallow Neural Network(SNN).md",
     "SNN의 역전파 과정.md",
-    "Pasted image 20230929174304.png",
-    "Activation function.md",
     "Leakly ReLU.md",
     "ReLU.md",
     "Vanishing Gradient.md",
     "하이퍼볼릭 탄젠트(Tanh) 함수.md",
     "hidden layer.md",
-    "Pasted image 20230929160640.png",
-    "Pasted image 20230929160518.png",
-    "Pasted image 20230929160458.png",
     "Logistic Regression.md",
     "Logistic Regression의 한계.md",
-    "Pasted image 20230929160338.png",
     "Hyperparameter.md",
     "Learning Rate.md",
     "에포크(epoch).md",
-    "Pasted image 20230929155127.png",
     "Evaluation of Algorithm.md",
-    "Pasted image 20230929155004.png",
-    "시그모이드(Sigmoid) 함수.md",
-    "model parameter.md",
-    "Linear Regression.md",
-    "Traning.md",
-    "Cost Function.md",
-    "Loss Function.md",
-    "Neuron.md"
+    "시그모이드(Sigmoid) 함수.md"
   ]
 }

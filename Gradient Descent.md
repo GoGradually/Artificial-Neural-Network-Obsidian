@@ -25,3 +25,42 @@ $\theta$ = [[model parameter]]
 손실함수 곡면과 분류 곡면은 다르다!!!
 분류 곡면 : $y = f(x_1, x_2)$
 손실함수 곡면 : $J(\theta)$
+
+~~~python
+def train(x, y, model, lr = 0.1):
+    dW1 = np.zeros_like(model.W1)
+    db1 = np.zeros_like(model.b1)
+    dW2 = np.zeros_like(model.W2)
+    db2 = np.zeros_like(model.b2)
+    m = len(x)
+    
+    a2, (z1, a1, z2, _) = model.predict(x)
+    cost = 0.0
+    
+    for x, y in zip(X, Y):
+        a2, (z1, a1, z2, _) = model.predict(x)
+        if y == 1:
+            cost -= np.log(a2)
+        else:
+            cost -= np.log(1 - a2)
+            
+        diff = a2 - y
+        #diff = scala
+        db2 += diff
+        #dW2 = {R^h}
+        dW2 += diff*a1
+        #db1 = {R^h}
+        #W2 = {R^h}
+        #1-a1**2 = {R^h}
+        db1 += diff*np.multiply(model.W2, (1 - np.multiply(a1, a1)))
+        #dW1 = {R^{h*n}}
+        dW1 += diff*np.outer(np.multiply(model.W2,(1 - np.multiply(a1, a1))), x)
+    
+    cost /= m
+    model.W1 -= lr * dW1/m
+    model.b1 -= lr * db1/m
+    model.W2 -= lr * dW2/m
+    model.b2 -= lr * db2/m
+    
+    return cost
+~~~
