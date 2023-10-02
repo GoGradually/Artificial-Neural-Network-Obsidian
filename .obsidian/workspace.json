@@ -8,23 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6984b20bf97b93a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3679dc5f22311b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Optimization Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c23efb6272c272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "caccbfba1b46c704",
@@ -91,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimization Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimization Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +136,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optimization Algorithms.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,39 +160,40 @@
   "active": "3679dc5f22311b39",
   "lastOpenFiles": [
     "인공 신경망.md",
-    "Stochastic Gradient Descent(SGD).md",
-    "진짜 Stochastic Gradient Descent.md",
-    "Stochastic Gradient Descent vs. Gradient Descent.md",
-    "Pasted image 20230929223841.png",
-    "Pasted image 20230929223810.png",
-    "Pasted image 20230929223743.png",
-    "Pasted image 20230929223709.png",
-    "Pasted image 20230929223646.png",
-    "Pasted image 20230929223600.png",
-    "Pasted image 20230929223218.png",
-    "Pasted image 20230929223159.png",
-    "Pasted image 20230929223139.png",
-    "Pasted image 20230929223118.png",
-    "다중 분류(Multi-class Classification).md",
-    "소프트맥스(Softmax).md",
-    "Activation function.md",
-    "Deep Neural Network(DNN).md",
-    "Gradient Descent.md",
-    "역전파의 Vectorization.md",
-    "역전파(Backpropagation).md",
-    "Shallow Neural Network(SNN).md",
-    "SNN의 역전파 과정.md",
-    "Leakly ReLU.md",
-    "ReLU.md",
-    "Vanishing Gradient.md",
-    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
-    "hidden layer.md",
-    "Logistic Regression.md",
-    "Logistic Regression의 한계.md",
-    "Hyperparameter.md",
-    "Learning Rate.md",
-    "에포크(epoch).md",
-    "Evaluation of Algorithm.md",
-    "시그모이드(Sigmoid) 함수.md"
+    "Optimization Algorithms.md",
+    "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
+    "드롭아웃.md",
+    "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
+    "2023-10-02.md",
+    "'~'의 의미.md",
+    "정규화(Regularization).md",
+    "Weight Initialization.md",
+    "He initialization.md",
+    "Pasted image 20231002120427.png",
+    "Xavier Initialization.md",
+    "Pasted image 20231002115856.png",
+    "Normalizing input.md",
+    "Pasted image 20231002115428.png",
+    "Early Stopping.md",
+    "Pasted image 20231002115224.png",
+    "Data augmentation.md",
+    "Pasted image 20231002114852.png",
+    "Pasted image 20231002114818.png",
+    "Pasted image 20231002112437.png",
+    "정규화를 하는 이유.md",
+    "신경망에서의 정규화.md",
+    "프로베니우스 노름.md",
+    "노름.md",
+    "Pasted image 20231002005712.png",
+    "L2 정규화.md",
+    "최대 가능도 추정법(MLE).md",
+    "모수.md",
+    "우도(가능도).md",
+    "우도 함수.md",
+    "확률밀도함수.md",
+    "Pasted image 20231002002810.png",
+    "L1 정규화.md",
+    "Pasted image 20231002000214.png",
+    "L2 노름.md"
   ]
 }
