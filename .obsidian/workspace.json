@@ -14,19 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Optimization Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29c23efb6272c272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-02.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,8 +147,25 @@
   },
   "active": "3679dc5f22311b39",
   "lastOpenFiles": [
-    "인공 신경망.md",
+    "Pasted image 20231003003959.png",
+    "Momentum.md",
     "Optimization Algorithms.md",
+    "Adam.md",
+    "Pasted image 20231003003842.png",
+    "Pasted image 20231003003701.png",
+    "RMSprop.md",
+    "Pasted image 20231003003244.png",
+    "Pasted image 20231003002343.png",
+    "Pasted image 20231003002113.png",
+    "Pasted image 20231003001736.png",
+    "편향 보정(Bias correction).md",
+    "Pasted image 20231003001556.png",
+    "Exponentially weighted averages.md",
+    "Pasted image 20231003000528.png",
+    "시계열 데이터.md",
+    "Pasted image 20231003000244.png",
+    "Pasted image 20231003000036.png",
+    "인공 신경망.md",
     "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
     "드롭아웃.md",
     "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
@@ -169,31 +174,14 @@
     "정규화(Regularization).md",
     "Weight Initialization.md",
     "He initialization.md",
-    "Pasted image 20231002120427.png",
     "Xavier Initialization.md",
-    "Pasted image 20231002115856.png",
     "Normalizing input.md",
-    "Pasted image 20231002115428.png",
     "Early Stopping.md",
-    "Pasted image 20231002115224.png",
     "Data augmentation.md",
-    "Pasted image 20231002114852.png",
-    "Pasted image 20231002114818.png",
-    "Pasted image 20231002112437.png",
     "정규화를 하는 이유.md",
     "신경망에서의 정규화.md",
     "프로베니우스 노름.md",
     "노름.md",
-    "Pasted image 20231002005712.png",
-    "L2 정규화.md",
-    "최대 가능도 추정법(MLE).md",
-    "모수.md",
-    "우도(가능도).md",
-    "우도 함수.md",
-    "확률밀도함수.md",
-    "Pasted image 20231002002810.png",
-    "L1 정규화.md",
-    "Pasted image 20231002000214.png",
-    "L2 노름.md"
+    "L2 정규화.md"
   ]
 }
