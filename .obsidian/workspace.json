@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization Algorithms.md",
-                "mode": "preview",
+                "file": "Bias 와 Variance.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization Algorithms.md",
+                "file": "Bias 와 Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization Algorithms.md",
+                "file": "Bias 와 Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization Algorithms.md"
+                "file": "Bias 와 Variance.md"
               }
             }
           }
@@ -147,9 +147,16 @@
   },
   "active": "3679dc5f22311b39",
   "lastOpenFiles": [
+    "과적합(Overfitting).md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
+    "Bias 와 Variance.md",
+    "인공 신경망.md",
+    "2023-10-02.md",
+    "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
+    "Optimization Algorithms.md",
+    "무제 파일.md",
     "Pasted image 20231003003959.png",
     "Momentum.md",
-    "Optimization Algorithms.md",
     "Adam.md",
     "Pasted image 20231003003842.png",
     "Pasted image 20231003003701.png",
@@ -164,12 +171,8 @@
     "Pasted image 20231003000528.png",
     "시계열 데이터.md",
     "Pasted image 20231003000244.png",
-    "Pasted image 20231003000036.png",
-    "인공 신경망.md",
-    "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
     "드롭아웃.md",
     "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
-    "2023-10-02.md",
     "'~'의 의미.md",
     "정규화(Regularization).md",
     "Weight Initialization.md",
@@ -179,9 +182,6 @@
     "Early Stopping.md",
     "Data augmentation.md",
     "정규화를 하는 이유.md",
-    "신경망에서의 정규화.md",
-    "프로베니우스 노름.md",
-    "노름.md",
-    "L2 정규화.md"
+    "신경망에서의 정규화.md"
   ]
 }
