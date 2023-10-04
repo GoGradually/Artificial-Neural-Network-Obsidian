@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6185578e9021ae15",
+        "id": "9f99b611942bce9d",
         "type": "tabs",
         "children": [
           {
-            "id": "3679dc5f22311b39",
+            "id": "9429d533a0117645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bias 와 Variance.md",
+                "file": "드롭아웃.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bias 와 Variance.md",
+                "file": "드롭아웃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bias 와 Variance.md",
+                "file": "드롭아웃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bias 와 Variance.md"
+                "file": "드롭아웃.md"
               }
             }
           }
@@ -145,14 +145,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3679dc5f22311b39",
+  "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "과적합(Overfitting).md",
-    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
-    "Bias 와 Variance.md",
+    "정규화(Regularization).md",
     "인공 신경망.md",
+    "신경망에서의 정규화.md",
+    "시계열 데이터.md",
+    "Pytorch 사용법.md",
     "2023-10-02.md",
     "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
+    "데이터셋 가져오는 방법.md",
+    "SGD 의 pytorch 구현.md",
+    "Broadcasting.md",
+    "Squeeze & Unsqueeze.md",
+    "Squeeze/Unsqueeze.md",
+    "Squeeze",
+    "view.md",
+    "과적합(Overfitting).md",
+    "L1 정규화.md",
+    "L2 정규화.md",
+    "드롭아웃.md",
+    "적절하게 fitting하는 법.md",
+    "Bias 와 Variance.md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
     "Optimization Algorithms.md",
     "무제 파일.md",
     "Pasted image 20231003003959.png",
@@ -167,21 +182,7 @@
     "Pasted image 20231003001736.png",
     "편향 보정(Bias correction).md",
     "Pasted image 20231003001556.png",
-    "Exponentially weighted averages.md",
     "Pasted image 20231003000528.png",
-    "시계열 데이터.md",
-    "Pasted image 20231003000244.png",
-    "드롭아웃.md",
-    "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
-    "'~'의 의미.md",
-    "정규화(Regularization).md",
-    "Weight Initialization.md",
-    "He initialization.md",
-    "Xavier Initialization.md",
-    "Normalizing input.md",
-    "Early Stopping.md",
-    "Data augmentation.md",
-    "정규화를 하는 이유.md",
-    "신경망에서의 정규화.md"
+    "Pasted image 20231003000244.png"
   ]
 }
