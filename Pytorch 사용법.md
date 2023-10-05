@@ -4,6 +4,7 @@
 [[Linear()]]
 [[backward()]]
 [[optimizer.step()]]
+[[데이터 타입 지정하는 법]]
 
 [[view]]
 [[Squeeze & Unsqueeze]]

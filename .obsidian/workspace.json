@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "드롭아웃.md",
+                "file": "데이터 타입 지정하는 법.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "caccbfba1b46c704",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "드롭아웃.md",
+                "file": "데이터 타입 지정하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "드롭아웃.md",
+                "file": "데이터 타입 지정하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "드롭아웃.md"
+                "file": "데이터 타입 지정하는 법.md"
               }
             }
           }
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +149,22 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "정규화(Regularization).md",
-    "인공 신경망.md",
-    "신경망에서의 정규화.md",
-    "시계열 데이터.md",
     "Pytorch 사용법.md",
+    "데이터 타입 지정하는 법.md",
+    "zeros_like() & ones_like().md",
+    "backward().md",
+    "optimizer.step().md",
+    "ModuleList.md",
+    "In-place operations 피하기.md",
+    "Pasted image 20231004170943.png",
+    "모델의 성능을 높히는 법.md",
     "2023-10-02.md",
     "매번 p가 같은데도 매 트레이닝마다 서로 다른 부분집합이 학습에 참여하는 것처럼 되는 이유.md",
+    "인공 신경망.md",
+    "정규화(Regularization).md",
+    "드롭아웃.md",
+    "신경망에서의 정규화.md",
+    "시계열 데이터.md",
     "데이터셋 가져오는 방법.md",
     "SGD 의 pytorch 구현.md",
     "Broadcasting.md",
@@ -164,25 +175,16 @@
     "과적합(Overfitting).md",
     "L1 정규화.md",
     "L2 정규화.md",
-    "드롭아웃.md",
     "적절하게 fitting하는 법.md",
     "Bias 와 Variance.md",
-    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
-    "Optimization Algorithms.md",
-    "무제 파일.md",
     "Pasted image 20231003003959.png",
-    "Momentum.md",
-    "Adam.md",
     "Pasted image 20231003003842.png",
     "Pasted image 20231003003701.png",
-    "RMSprop.md",
     "Pasted image 20231003003244.png",
     "Pasted image 20231003002343.png",
     "Pasted image 20231003002113.png",
     "Pasted image 20231003001736.png",
-    "편향 보정(Bias correction).md",
     "Pasted image 20231003001556.png",
-    "Pasted image 20231003000528.png",
-    "Pasted image 20231003000244.png"
+    "Pasted image 20231003000528.png"
   ]
 }
