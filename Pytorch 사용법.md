@@ -1,10 +1,12 @@
 [[Tensor]]
 [[zeros_like() & ones_like()]]
-[[shape()]]
+[[데이터 타입 지정하는 법]]
+[[nn.Module]]
 [[Linear()]]
+
+Autograd -> 자동 그라디언트 계산
 [[backward()]]
 [[optimizer.step()]]
-[[데이터 타입 지정하는 법]]
 
 [[view]]
 [[Squeeze & Unsqueeze]]

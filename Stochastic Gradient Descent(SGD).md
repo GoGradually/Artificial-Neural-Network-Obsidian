@@ -11,3 +11,4 @@
 같이보기
 - [[진짜 Stochastic Gradient Descent]]
 - [[Stochastic Gradient Descent vs. Gradient Descent]]
+- [[SGD 의 pytorch 구현]]
