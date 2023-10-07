@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md",
+                "file": "Optimization Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md",
+                "file": "Optimization Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md",
+                "file": "Optimization Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md"
+                "file": "Optimization Algorithms.md"
               }
             }
           }
@@ -149,12 +149,23 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "Adam.md",
+    "Optimization Algorithms.md",
+    "Exponentially weighted averages.md",
     "인공 신경망.md",
-    "과적합(Overfitting).md",
+    "Weight Initialization.md",
     "Bias 와 Variance.md",
-    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
+    "과적합(Overfitting).md",
     "적절하게 fitting하는 법.md",
+    "Model Capacity.md",
     "정규화(Regularization).md",
+    "Normalizing input.md",
+    "Data augmentation.md",
+    "드롭아웃.md",
+    "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
+    "L2 정규화.md",
+    "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
     "구현한 과제들.md",
     "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
     "MLP Training.md",
@@ -164,25 +175,14 @@
     "Logistic Regression.md",
     "Pytorch 사용법.md",
     "nn.Module.md",
-    "MNIST 데이터 로딩.md",
-    "Squeeze & Unsqueeze.md",
-    "view.md",
     "Pasted image 20231006142758.png",
-    "데이터셋 가져오는 방법.md",
-    "SGD 의 pytorch 구현.md",
-    "Stochastic Gradient Descent(SGD).md",
-    "Broadcasting.md",
     "Pasted image 20231005183942.png",
     "Pasted image 20231005183910.png",
     "Pasted image 20231005183844.png",
     "Pasted image 20231005183805.png",
     "Pasted image 20231005183517.png",
-    "Linear().md",
     "Pasted image 20231005170207.png",
-    "Tensor.md",
-    "텐서의 이항 연산자들.md",
     "Pasted image 20231005165128.png",
-    "텐서의 모든 원소들의 평균을 확인하는 방법.md",
     "Pasted image 20231005165055.png",
     "Pasted image 20231005164439.png",
     "Squeeze"
