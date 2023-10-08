@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "최대 우도 추정법(MLE).md",
+                "file": "Regression model.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "caccbfba1b46c704",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최대 우도 추정법(MLE).md",
+                "file": "Regression model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최대 우도 추정법(MLE).md",
+                "file": "Regression model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최대 우도 추정법(MLE).md"
+                "file": "Regression model.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "우도 함수.md",
-    "최대 우도 추정법(MLE).md",
-    "Regression model.md",
-    "logit.md",
     "인공 신경망.md",
-    "Optimization Algorithms.md",
-    "Exponentially weighted averages.md",
-    "Momentum.md",
-    "Adam.md",
-    "RMSprop.md",
     "편향 보정(Bias correction).md",
-    "시계열 데이터.md",
-    "우도(가능도).md",
-    "Gradient Descent.md",
-    "확률밀도함수.md",
-    "모수.md",
-    "Loss Function.md",
-    "역전파(Backpropagation).md",
-    "Logistic Regression.md",
-    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
-    "구현한 과제들.md",
+    "Exponentially weighted averages.md",
+    "Optimization Algorithms.md",
+    "최대 우도 추정법(MLE).md",
+    "정규화(Regularization).md",
+    "L2 정규화.md",
     "Weight Initialization.md",
+    "프로베니우스 노름.md",
+    "최대 가능도 추정법(MLE).md",
+    "Regression model.md",
+    "우도 함수.md",
+    "Adam.md",
     "Bias 와 Variance.md",
     "과적합(Overfitting).md",
     "적절하게 fitting하는 법.md",
     "Model Capacity.md",
+    "Normalizing input.md",
+    "Data augmentation.md",
+    "드롭아웃.md",
+    "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
+    "Dev set과 Test set 의 크기를 비슷하게 잡는 이유.md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
+    "구현한 과제들.md",
+    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
+    "MLP Training.md",
     "Pasted image 20231006142758.png",
     "Pasted image 20231005183942.png",
     "Pasted image 20231005183910.png",
