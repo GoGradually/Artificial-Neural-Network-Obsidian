@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과적합(Overfitting).md",
+                "file": "Evaluation of Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "과적합(Overfitting).md",
+                "file": "Evaluation of Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "과적합(Overfitting).md",
+                "file": "Evaluation of Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "과적합(Overfitting).md"
+                "file": "Evaluation of Algorithm.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "Bias 와 Variance.md",
-    "과적합(Overfitting).md",
     "인공 신경망.md",
+    "Traning.md",
+    "Classification vs Regression.md",
+    "Hyperparameter.md",
+    "과적합(Overfitting).md",
+    "Bias 와 Variance.md",
     "Exponentially weighted averages.md",
     "Optimization Algorithms.md",
     "최대 우도 추정법(MLE).md",
@@ -172,9 +175,6 @@
     "Logistic Regression.md",
     "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
     "구현한 과제들.md",
-    "Weight Initialization.md",
-    "적절하게 fitting하는 법.md",
-    "Model Capacity.md",
     "Pasted image 20231006142758.png",
     "Pasted image 20231005183942.png",
     "Pasted image 20231005183910.png",
