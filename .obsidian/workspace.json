@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluation of Algorithm.md",
+                "file": "인공 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evaluation of Algorithm.md",
+                "file": "인공 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evaluation of Algorithm.md",
+                "file": "인공 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evaluation of Algorithm.md"
+                "file": "인공 신경망.md"
               }
             }
           }
@@ -149,42 +148,41 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "합성곱 신경망(Convolutional Neural Network).md",
+    "합성곱 레이어(Convolution Layer).md",
+    "Pasted image 20231014163547.png",
+    "Pasted image 20231014163241.png",
+    "Pasted image 20231014163053.png",
+    "Pasted image 20231014162800.png",
+    "풀링 레이어(Pooling layer).md",
+    "Pasted image 20231014162421.png",
+    "Max pooling.md",
+    "Pasted image 20231014161251.png",
     "인공 신경망.md",
-    "Traning.md",
-    "Classification vs Regression.md",
-    "Hyperparameter.md",
+    "Fully connected layer vs Convolutional layer.md",
+    "Pasted image 20231014002830.png",
+    "Pasted image 20231014002716.png",
+    "Pasted image 20231014002631.png",
+    "stride.md",
+    "Pasted image 20231014002218.png",
+    "합성곱.md",
+    "padding.md",
+    "Data augmentation.md",
+    "정규화(Regularization).md",
+    "Deep Neural Network(DNN).md",
+    "다중 분류(Multi-class Classification).md",
+    "Optimization Algorithms.md",
+    "RMSprop.md",
+    "Logistic Regression.md",
+    "logit.md",
+    "Exponentially weighted averages.md",
     "과적합(Overfitting).md",
     "Bias 와 Variance.md",
-    "Exponentially weighted averages.md",
-    "Optimization Algorithms.md",
     "최대 우도 추정법(MLE).md",
     "우도 함수.md",
     "Regression model.md",
-    "logit.md",
     "Momentum.md",
     "Adam.md",
-    "RMSprop.md",
-    "편향 보정(Bias correction).md",
-    "시계열 데이터.md",
-    "우도(가능도).md",
-    "Gradient Descent.md",
-    "확률밀도함수.md",
-    "모수.md",
-    "Loss Function.md",
-    "역전파(Backpropagation).md",
-    "Logistic Regression.md",
-    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
-    "구현한 과제들.md",
-    "Pasted image 20231006142758.png",
-    "Pasted image 20231005183942.png",
-    "Pasted image 20231005183910.png",
-    "Pasted image 20231005183844.png",
-    "Pasted image 20231005183805.png",
-    "Pasted image 20231005183517.png",
-    "Pasted image 20231005170207.png",
-    "Pasted image 20231005165128.png",
-    "Pasted image 20231005165055.png",
-    "Pasted image 20231005164439.png",
     "Squeeze"
   ]
 }
