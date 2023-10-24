@@ -1,3 +1,5 @@
+효율적인 경사하강법 알고리즘들
+
 - [[시계열 데이터]]
 - [[Exponentially weighted averages]]
 - [[편향 보정(Bias correction)]]
