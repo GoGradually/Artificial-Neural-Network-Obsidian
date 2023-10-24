@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shallow Neural Network(SNN).md",
-                "mode": "preview",
+                "file": "중간고사 공부용 정리.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shallow Neural Network(SNN).md",
+                "file": "중간고사 공부용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shallow Neural Network(SNN).md",
+                "file": "중간고사 공부용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shallow Neural Network(SNN).md"
+                "file": "중간고사 공부용 정리.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "인공 신경망.md",
+    "중간고사 공부용 정리.md",
+    "Logistic Regression.md",
+    "Cost Function.md",
+    "Regression model.md",
+    "Deep Neural Network(DNN).md",
+    "Shallow Neural Network(SNN).md",
     "합성곱 신경망(Convolutional Neural Network).md",
     "배치 정규화(Batch Normalization).md",
     "input normalization vs batch normalization.md",
@@ -166,23 +173,16 @@
     "LeNet-5.md",
     "FLOPs.md",
     "AlexNet.md",
-    "Deep Neural Network(DNN).md",
-    "인공 신경망.md",
-    "Logistic Regression.md",
     "역전파(Backpropagation).md",
     "Gradient Descent.md",
-    "Shallow Neural Network(SNN).md",
     "output layer.md",
     "input layer.md",
     "SNN의 역전파 과정.md",
-    "Regression model.md",
     "Traning.md",
     "역전파의 Vectorization.md",
     "Loss Function.md",
     "Logistic Regression의 한계.md",
     "Linear Regression.md",
-    "Cost Function.md",
-    "logit.md",
     "Pasted image 20231014163547.png",
     "Squeeze"
   ]
