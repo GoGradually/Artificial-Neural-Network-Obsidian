@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공 신경망.md",
-                "mode": "source",
+                "file": "Shallow Neural Network(SNN).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "input",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "Shallow Neural Network(SNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "Shallow Neural Network(SNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인공 신경망.md"
+                "file": "Shallow Neural Network(SNN).md"
               }
             }
           }
@@ -133,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +148,26 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "Deep Neural Network(DNN).md",
+    "인공 신경망.md",
+    "Logistic Regression.md",
+    "역전파(Backpropagation).md",
+    "Gradient Descent.md",
+    "Shallow Neural Network(SNN).md",
+    "output layer.md",
+    "input layer.md",
+    "SNN의 역전파 과정.md",
+    "Regression model.md",
+    "Traning.md",
+    "역전파의 Vectorization.md",
+    "Loss Function.md",
+    "Logistic Regression의 한계.md",
+    "Linear Regression.md",
+    "Cost Function.md",
+    "logit.md",
+    "Neuron.md",
+    "Evaluation of Algorithm.md",
+    "Classification vs Regression.md",
     "합성곱 신경망(Convolutional Neural Network).md",
     "합성곱 레이어(Convolution Layer).md",
     "Pasted image 20231014163547.png",
@@ -158,31 +178,12 @@
     "Pasted image 20231014162421.png",
     "Max pooling.md",
     "Pasted image 20231014161251.png",
-    "인공 신경망.md",
     "Fully connected layer vs Convolutional layer.md",
     "Pasted image 20231014002830.png",
     "Pasted image 20231014002716.png",
     "Pasted image 20231014002631.png",
     "stride.md",
     "Pasted image 20231014002218.png",
-    "합성곱.md",
-    "padding.md",
-    "Data augmentation.md",
-    "정규화(Regularization).md",
-    "Deep Neural Network(DNN).md",
-    "다중 분류(Multi-class Classification).md",
-    "Optimization Algorithms.md",
-    "RMSprop.md",
-    "Logistic Regression.md",
-    "logit.md",
-    "Exponentially weighted averages.md",
-    "과적합(Overfitting).md",
-    "Bias 와 Variance.md",
-    "최대 우도 추정법(MLE).md",
-    "우도 함수.md",
-    "Regression model.md",
-    "Momentum.md",
-    "Adam.md",
     "Squeeze"
   ]
 }
