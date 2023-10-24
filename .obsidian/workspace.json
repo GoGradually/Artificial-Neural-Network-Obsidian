@@ -148,6 +148,8 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "output layer.md",
+    "input layer.md",
     "인공 신경망.md",
     "Gradient Descent.md",
     "적절하게 fitting하는 법.md",
@@ -182,8 +184,6 @@
     "Pasted image 20231014163547.png",
     "풀링 레이어(Pooling layer).md",
     "Max pooling.md",
-    "Fully connected layer vs Convolutional layer.md",
-    "stride.md",
     "Squeeze"
   ]
 }
