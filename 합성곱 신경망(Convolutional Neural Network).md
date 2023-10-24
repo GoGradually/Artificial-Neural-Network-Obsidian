@@ -2,6 +2,11 @@
 - [[풀링 레이어(Pooling layer)]]
 - [[합성곱 레이어(Convolution Layer)]]
 
+### 대표적 CNN
+- [[LeNet-5]]
+- [[AlexNet]]
+- [[VGGNet]]
+
 ### 예제
 ![[Pasted image 20231014163053.png]]
 합성곱 레이어와 pooling 레이어, 마지막 출력 Fully connected layer의 중첩으로 완성되는 신경망
