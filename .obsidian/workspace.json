@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "합성곱 신경망(Convolutional Neural Network).md",
+                "file": "Shallow Neural Network(SNN).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "합성곱 신경망(Convolutional Neural Network).md",
+                "file": "Shallow Neural Network(SNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "합성곱 신경망(Convolutional Neural Network).md",
+                "file": "Shallow Neural Network(SNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "합성곱 신경망(Convolutional Neural Network).md"
+                "file": "Shallow Neural Network(SNN).md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +148,18 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "AlexNet.md",
+    "인공 신경망.md",
+    "Gradient Descent.md",
+    "적절하게 fitting하는 법.md",
+    "Optimization Algorithms.md",
+    "정규화(Regularization).md",
+    "Activation function.md",
+    "소프트맥스(Softmax).md",
+    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
+    "ReLU.md",
+    "시그모이드(Sigmoid) 함수.md",
     "합성곱 신경망(Convolutional Neural Network).md",
+    "AlexNet.md",
     "VGGNet.md",
     "Pasted image 20231020143852.png",
     "Pasted image 20231020143558.png",
@@ -161,15 +170,11 @@
     "Pasted image 20231020135434.png",
     "LeNet-5.md",
     "Pasted image 20231020134841.png",
-    "인공 신경망.md",
     "배치 정규화(Batch Normalization).md",
     "Pasted image 20231020132134.png",
     "Regularization vs Normalization.md",
     "L2 정규화.md",
-    "Optimization Algorithms.md",
     "RMSprop.md",
-    "적절하게 fitting하는 법.md",
-    "정규화(Regularization).md",
     "Pasted image 20231020125947.png",
     "Pasted image 20231020125729.png",
     "input normalization vs batch normalization.md",
@@ -179,11 +184,6 @@
     "Max pooling.md",
     "Fully connected layer vs Convolutional layer.md",
     "stride.md",
-    "합성곱.md",
-    "padding.md",
-    "Data augmentation.md",
-    "Deep Neural Network(DNN).md",
-    "다중 분류(Multi-class Classification).md",
     "Squeeze"
   ]
 }
