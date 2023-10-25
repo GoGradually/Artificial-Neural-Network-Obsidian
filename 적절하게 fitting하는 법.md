@@ -1,3 +1,4 @@
+
 [[Model Capacity]]를 적절히 가져가야 한다
 ![[Pasted image 20231001224352.png]]
 

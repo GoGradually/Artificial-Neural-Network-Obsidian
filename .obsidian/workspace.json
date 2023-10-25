@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activation function.md",
-                "mode": "source",
+                "file": "Shallow Neural Network(SNN).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activation function.md",
+                "file": "Shallow Neural Network(SNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activation function.md",
+                "file": "Shallow Neural Network(SNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Activation function.md"
+                "file": "Shallow Neural Network(SNN).md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,28 +149,32 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "Leaky ReLU.md",
-    "Activation function.md",
-    "Vanishing Gradient.md",
-    "중간고사 공부용 정리.md",
-    "시그모이드(Sigmoid) 함수.md",
-    "ReLU.md",
-    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
-    "역전파(Backpropagation).md",
-    "SNN의 역전파 과정.md",
-    "MLP 모델.md",
     "인공 신경망.md",
+    "구현한 과제들.md",
+    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
+    "MLP Test.md",
+    "MLP 모델.md",
+    "MLP Training.md",
+    "중간고사 공부용 정리.md",
+    "적절하게 fitting하는 법.md",
+    "과적합(Overfitting).md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
+    "모델의 성능을 높히는 법.md",
+    "Stochastic Gradient Descent(SGD).md",
+    "배치 정규화(Batch Normalization).md",
     "Logistic Regression.md",
-    "Cost Function.md",
-    "Regression model.md",
-    "Deep Neural Network(DNN).md",
     "Shallow Neural Network(SNN).md",
     "합성곱 신경망(Convolutional Neural Network).md",
-    "배치 정규화(Batch Normalization).md",
-    "input normalization vs batch normalization.md",
-    "VGGNet.md",
-    "VGGNet vs AlexNet.md",
-    "Regularization vs Normalization.md",
+    "Adam.md",
+    "RMSprop.md",
+    "Momentum.md",
+    "Exponentially weighted averages.md",
+    "드롭아웃.md",
+    "L2 정규화.md",
+    "확률밀도함수.md",
+    "최대 우도 추정법(MLE).md",
+    "L2 노름.md",
+    "프로베니우스 노름.md",
     "Pasted image 20231020143852.png",
     "Pasted image 20231020143558.png",
     "Pasted image 20231020143036.png",
@@ -179,10 +184,6 @@
     "Pasted image 20231020132134.png",
     "Pasted image 20231020125947.png",
     "Pasted image 20231020125729.png",
-    "LeNet-5.md",
-    "FLOPs.md",
-    "AlexNet.md",
-    "Gradient Descent.md",
     "Pasted image 20231014163547.png",
     "Squeeze"
   ]
