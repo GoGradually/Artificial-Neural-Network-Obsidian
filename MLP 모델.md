@@ -1,3 +1,5 @@
+Multilayer perceptron
+
 ~~~python
 from torch import nn
 class MLP_h(nn.Module):

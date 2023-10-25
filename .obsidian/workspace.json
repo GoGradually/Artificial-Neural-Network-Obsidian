@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중간고사 공부용 정리.md",
+                "file": "Activation function.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중간고사 공부용 정리.md",
+                "file": "Activation function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "중간고사 공부용 정리.md",
+                "file": "Activation function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "중간고사 공부용 정리.md"
+                "file": "Activation function.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "인공 신경망.md",
+    "Leaky ReLU.md",
+    "Activation function.md",
+    "Vanishing Gradient.md",
     "중간고사 공부용 정리.md",
+    "시그모이드(Sigmoid) 함수.md",
+    "ReLU.md",
+    "하이퍼볼릭 탄젠트(Tanh) 함수.md",
+    "역전파(Backpropagation).md",
+    "SNN의 역전파 과정.md",
+    "MLP 모델.md",
+    "인공 신경망.md",
     "Logistic Regression.md",
     "Cost Function.md",
     "Regression model.md",
@@ -173,16 +182,7 @@
     "LeNet-5.md",
     "FLOPs.md",
     "AlexNet.md",
-    "역전파(Backpropagation).md",
     "Gradient Descent.md",
-    "output layer.md",
-    "input layer.md",
-    "SNN의 역전파 과정.md",
-    "Traning.md",
-    "역전파의 Vectorization.md",
-    "Loss Function.md",
-    "Logistic Regression의 한계.md",
-    "Linear Regression.md",
     "Pasted image 20231014163547.png",
     "Squeeze"
   ]
