@@ -18,3 +18,4 @@ RMSprop과 Momentum 은 각자 독립적으로 적용할 수 있다.
    - m hat 설정 (mt / (1 - beta1t))
    - v hat 설정 (vt / (1 - beta2t))
    - 매개변수 업데이트
+ -> RMSprop 과 Momentum 이 각자 독립적으로 적용됨

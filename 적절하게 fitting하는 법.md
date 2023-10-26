@@ -10,7 +10,7 @@
 - 새로운 모델 구조
 Dev 에러가 크다면 (분산이 크다면)
 - 더 많은 데이터
-- [[정규화(Regularization)]])
+- [[정규화(Regularization)]]
 - 새로운 모델 구조
 
 우리는 New model Architecture 을 많이 배우게 될 것이다 (둘 다 낮추기 위한)
