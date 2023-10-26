@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLP Training.md",
+                "file": "중간고사 공부용 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "스케일링",
+                "query": "drop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLP Training.md",
+                "file": "중간고사 공부용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLP Training.md",
+                "file": "중간고사 공부용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLP Training.md"
+                "file": "중간고사 공부용 정리.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "Activation function.md",
     "중간고사 공부용 정리.md",
-    "Adam.md",
-    "MLP Training.md",
-    "Momentum.md",
-    "드롭아웃.md",
-    "합성곱 신경망(Convolutional Neural Network).md",
-    "VGGNet.md",
-    "AlexNet.md",
-    "RMSprop.md",
     "적절하게 fitting하는 법.md",
     "배치 정규화(Batch Normalization).md",
+    "Adam.md",
+    "Logistic Regression.md",
+    "합성곱 신경망(Convolutional Neural Network).md",
+    "RMSprop.md",
+    "역전파(Backpropagation).md",
+    "MLP Test.md",
+    "MLP Training.md",
+    "MLP 모델.md",
+    "Momentum.md",
     "인공 신경망.md",
+    "Hyperparameter.md",
+    "드롭아웃.md",
+    "드롭아웃 (Dropout).md",
+    "정규화(Regularization).md",
+    "L1 정규화.md",
+    "VGGNet.md",
+    "AlexNet.md",
     "풀링 레이어(Pooling layer).md",
     "Max pooling.md",
-    "MLP 모델.md",
-    "MLP Test.md",
     "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
     "구현한 과제들.md",
     "모델 만드는 법.md",
-    "과적합(Overfitting).md",
-    "합성곱 레이어(Convolution Layer).md",
-    "합성곱.md",
     "스크린샷 2023-10-26 오후 12.25.45.png",
     "Pasted image 20231026122539.png",
-    "역전파(Backpropagation).md",
-    "Logistic Regression.md",
-    "SNN의 역전파 과정.md",
     "Pasted image 20231026114120.png",
-    "Stochastic Gradient Descent(SGD).md",
     "Pasted image 20231026113843.png",
     "Pasted image 20231020143852.png",
     "Pasted image 20231020143558.png",
