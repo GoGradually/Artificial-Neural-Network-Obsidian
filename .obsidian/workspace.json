@@ -11,12 +11,8 @@
             "id": "9429d533a0117645",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLP Training.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "스케일링",
+                "query": "input",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLP Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLP Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MLP Training.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,36 +140,36 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "중간고사 공부용 정리.md",
-    "Adam.md",
-    "MLP Training.md",
-    "Momentum.md",
-    "드롭아웃.md",
-    "합성곱 신경망(Convolutional Neural Network).md",
-    "VGGNet.md",
-    "AlexNet.md",
-    "RMSprop.md",
-    "적절하게 fitting하는 법.md",
-    "배치 정규화(Batch Normalization).md",
-    "인공 신경망.md",
-    "풀링 레이어(Pooling layer).md",
-    "Max pooling.md",
-    "MLP 모델.md",
-    "MLP Test.md",
-    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
-    "구현한 과제들.md",
-    "모델 만드는 법.md",
-    "과적합(Overfitting).md",
-    "합성곱 레이어(Convolution Layer).md",
-    "합성곱.md",
+    "2023-10-02.md",
+    "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
+    "Shallow Neural Network(SNN).md",
     "스크린샷 2023-10-26 오후 12.25.45.png",
+    "모델 만드는 법.md",
     "Pasted image 20231026122539.png",
-    "역전파(Backpropagation).md",
-    "Logistic Regression.md",
-    "SNN의 역전파 과정.md",
     "Pasted image 20231026114120.png",
-    "Stochastic Gradient Descent(SGD).md",
     "Pasted image 20231026113843.png",
+    "인공 신경망.md",
+    "구현한 과제들.md",
+    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
+    "MLP Test.md",
+    "MLP 모델.md",
+    "MLP Training.md",
+    "중간고사 공부용 정리.md",
+    "적절하게 fitting하는 법.md",
+    "과적합(Overfitting).md",
+    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
+    "모델의 성능을 높히는 법.md",
+    "Stochastic Gradient Descent(SGD).md",
+    "배치 정규화(Batch Normalization).md",
+    "Logistic Regression.md",
+    "합성곱 신경망(Convolutional Neural Network).md",
+    "Adam.md",
+    "RMSprop.md",
+    "Momentum.md",
+    "Exponentially weighted averages.md",
+    "드롭아웃.md",
+    "L2 정규화.md",
+    "확률밀도함수.md",
     "Pasted image 20231020143852.png",
     "Pasted image 20231020143558.png",
     "Pasted image 20231020143036.png",
