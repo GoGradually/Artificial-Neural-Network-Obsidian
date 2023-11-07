@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "YOLO(You Only Look Once).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "YOLO(You Only Look Once).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "YOLO(You Only Look Once).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인공 신경망.md"
+                "file": "YOLO(You Only Look Once).md"
               }
             }
           }
@@ -148,42 +148,41 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "Naive YOLO.md",
+    "Pasted image 20231107222510.png",
+    "Pasted image 20231107222455.png",
+    "YOLO(You Only Look Once).md",
+    "Non-max Suppression Algorithm.md",
+    "Pasted image 20231107215151.png",
+    "Pasted image 20231107215110.png",
+    "Pasted image 20231107215011.png",
+    "Pasted image 20231107214649.png",
+    "Anchor Box Algorithm.md",
+    "Pasted image 20231107214542.png",
+    "Pasted image 20231107214536.png",
+    "IoU.md",
+    "Pasted image 20231107214003.png",
+    "Pasted image 20231107213940.png",
     "인공 신경망.md",
+    "sliding window method.md",
+    "FC없이 합성곱만으로 모델 구현하기.md",
+    "object detection.md",
     "ResNet.md",
     "합성곱 신경망에서 매개변수 개수 측정 방법.md",
     "Bottleneck Architecture.md",
     "합성곱 신경망(Convolutional Neural Network).md",
     "FLOPs.md",
-    "Pasted image 20231101201811.png",
-    "Pasted image 20231101201717.png",
     "Global Average Pooling.md",
-    "Pasted image 20231101201550.png",
     "skip-connection.md",
     "Shortcut Projection.md",
     "Residual Block.md",
-    "Pasted image 20231101200832.png",
-    "Pasted image 20231101195747.png",
-    "Pasted image 20231101195158.png",
-    "Pasted image 20231101195048.png",
     "Residual Learning Framework.md",
     "드롭아웃 (Dropout).md",
     "2023-10-02.md",
     "p를 곱하는 게 유닛을 비활성화 시키는 효과를 가져오는 이유.md",
     "Shallow Neural Network(SNN).md",
-    "스크린샷 2023-10-26 오후 12.25.45.png",
     "모델 만드는 법.md",
-    "Pasted image 20231026122539.png",
-    "Pasted image 20231026114120.png",
     "구현한 과제들.md",
-    "MNIST 사용한 문자 판별 모델 - 다중 퍼셉트론.md",
-    "MLP Test.md",
-    "MLP 모델.md",
-    "MLP Training.md",
-    "중간고사 공부용 정리.md",
-    "적절하게 fitting하는 법.md",
-    "과적합(Overfitting).md",
-    "overfitting, undefitting, or 적절한 fitting 의 구분.md",
-    "모델의 성능을 높히는 법.md",
     "Squeeze"
   ]
 }
