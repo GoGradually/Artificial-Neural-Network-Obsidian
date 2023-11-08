@@ -7,3 +7,7 @@
 이미지를 한번에 보낸다.
 
 그래서 이런 문제가 발생하기도 한다.![[Pasted image 20231107212832.png]]
+
+
+- straitforward
+- inefficient

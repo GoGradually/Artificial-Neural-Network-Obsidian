@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YOLO(You Only Look Once).md",
+                "file": "인공 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YOLO(You Only Look Once).md",
+                "file": "인공 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YOLO(You Only Look Once).md",
+                "file": "인공 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YOLO(You Only Look Once).md"
+                "file": "인공 신경망.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "FC없이 합성곱만으로 모델 구현하기.md",
+    "인공 신경망.md",
+    "YOLO(You Only Look Once).md",
     "Naive YOLO.md",
+    "sliding window method.md",
+    "object detection.md",
     "Pasted image 20231107222510.png",
     "Pasted image 20231107222455.png",
-    "YOLO(You Only Look Once).md",
     "Non-max Suppression Algorithm.md",
     "Pasted image 20231107215151.png",
     "Pasted image 20231107215110.png",
@@ -163,10 +167,6 @@
     "IoU.md",
     "Pasted image 20231107214003.png",
     "Pasted image 20231107213940.png",
-    "인공 신경망.md",
-    "sliding window method.md",
-    "FC없이 합성곱만으로 모델 구현하기.md",
-    "object detection.md",
     "ResNet.md",
     "합성곱 신경망에서 매개변수 개수 측정 방법.md",
     "Bottleneck Architecture.md",
