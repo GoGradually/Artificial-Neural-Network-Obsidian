@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Word2Vec.md",
+                "file": "Fine Tuning vs Freezing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word2Vec.md",
+                "file": "Fine Tuning vs Freezing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word2Vec.md",
+                "file": "Fine Tuning vs Freezing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word2Vec.md"
+                "file": "Fine Tuning vs Freezing.md"
               }
             }
           }
@@ -147,8 +147,16 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "word2vec 연산 최적화.md",
+    "인공 신경망.md",
+    "Fine Tuning vs Freezing.md",
+    "NLP 에서 가변적인 길이의 입력 데이터 처리 방법.md",
+    "Pasted image 20231120004059.png",
+    "Pasted image 20231120004012.png",
+    "Pasted image 20231120003930.png",
+    "word embedding.md",
+    "word embedding 의 적용.md",
     "Word2Vec.md",
+    "word2vec 연산 최적화.md",
     "word2vec 입력과 출력.md",
     "Pasted image 20231117190937.png",
     "Pasted image 20231117174334.png",
@@ -157,16 +165,11 @@
     "Pasted image 20231117161203.png",
     "Pasted image 20231117160707.png",
     "word embedding 학습시키기.md",
-    "word embedding.md",
-    "인공 신경망.md",
     "Pasted image 20231117145934.png",
     "Pasted image 20231117145550.png",
-    "Pasted image 20231117145232.png",
-    "Pasted image 20231117145159.png",
     "LSTM.md",
     "input gate.md",
     "output&hidden state.md",
-    "Pasted image 20231117142611.png",
     "Long term state.md",
     "Pytorch 사용법.md",
     "output gate.md",
@@ -180,8 +183,6 @@
     "순환 신경망(Recurrent Neural Networks ,RNNs).md",
     "Sequence Data.md",
     "이름 객체 인식.md",
-    "one-hot encoding.md",
-    "FC없이 합성곱만으로 모델 구현하기.md",
     "Squeeze"
   ]
 }

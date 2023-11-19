@@ -13,3 +13,4 @@ embedding matrix 를 만들 수 있게 된다.
 반대되는 개념일수록 차잇값이 커진다. (음수/양수)
 
 [[word embedding 학습시키기]]
+[[word embedding 의 적용]]
