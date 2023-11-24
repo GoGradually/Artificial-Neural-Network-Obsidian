@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fine Tuning vs Freezing.md",
+                "file": "인공 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fine Tuning vs Freezing.md",
+                "file": "인공 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fine Tuning vs Freezing.md",
+                "file": "인공 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fine Tuning vs Freezing.md"
+                "file": "인공 신경망.md"
               }
             }
           }
@@ -147,20 +147,25 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "GloVe.md",
     "인공 신경망.md",
+    "Word2Vec.md",
+    "word2vec 연산 최적화.md",
+    "word2vec의 실제 순전파 방법.md",
+    "word2vec 입력과 출력.md",
+    "word embedding.md",
+    "Pytorch 사용법.md",
+    "Tensor.md",
+    "텐서를 자르는 방법(slicing).md",
     "Fine Tuning vs Freezing.md",
+    "우도(가능도).md",
     "NLP 에서 가변적인 길이의 입력 데이터 처리 방법.md",
     "Pasted image 20231120004059.png",
     "Pasted image 20231120004012.png",
     "Pasted image 20231120003930.png",
-    "word embedding.md",
     "word embedding 의 적용.md",
-    "Word2Vec.md",
-    "word2vec 연산 최적화.md",
-    "word2vec 입력과 출력.md",
     "Pasted image 20231117190937.png",
     "Pasted image 20231117174334.png",
-    "word2vec의 실제 순전파 방법.md",
     "word2vec_skip-gram.png",
     "Pasted image 20231117161203.png",
     "Pasted image 20231117160707.png",
@@ -171,7 +176,6 @@
     "input gate.md",
     "output&hidden state.md",
     "Long term state.md",
-    "Pytorch 사용법.md",
     "output gate.md",
     "forget gate.md",
     "gate.md",
@@ -179,10 +183,6 @@
     "skip-connection.md",
     "ResNet.md",
     "RNN 의 기울기 소실.md",
-    "RNNs 의 위상.md",
-    "순환 신경망(Recurrent Neural Networks ,RNNs).md",
-    "Sequence Data.md",
-    "이름 객체 인식.md",
     "Squeeze"
   ]
 }
