@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input",
+                "query": "augmen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,19 +148,33 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "GloVe.md",
+    "RNNs 의 위상.md",
     "인공 신경망.md",
+    "DL16 _classroom_Sequence2Sequence.pdf",
+    "DL16 Sequence2Sequence.pdf",
+    "Pytorch 사용법.md",
+    "DL15_LAB_RNN.pdf",
+    "RNN data preprocessing.md",
+    "Data augmentation.md",
+    "Stochastic Gradient Descent(SGD).md",
+    "배치 정규화(Batch Normalization).md",
+    "Hyperparameter.md",
+    "Batch Size.md",
+    "Optimization Algorithms.md",
+    "Sequence Data.md",
+    "FC없이 합성곱만으로 모델 구현하기.md",
+    "LSTM.md",
     "Word2Vec.md",
+    "NLP 에서 가변적인 길이의 입력 데이터 처리 방법.md",
+    "GloVe.md",
     "word2vec 연산 최적화.md",
     "word2vec의 실제 순전파 방법.md",
     "word2vec 입력과 출력.md",
     "word embedding.md",
-    "Pytorch 사용법.md",
     "Tensor.md",
     "텐서를 자르는 방법(slicing).md",
     "Fine Tuning vs Freezing.md",
     "우도(가능도).md",
-    "NLP 에서 가변적인 길이의 입력 데이터 처리 방법.md",
     "Pasted image 20231120004059.png",
     "Pasted image 20231120004012.png",
     "Pasted image 20231120003930.png",
@@ -172,17 +187,6 @@
     "word embedding 학습시키기.md",
     "Pasted image 20231117145934.png",
     "Pasted image 20231117145550.png",
-    "LSTM.md",
-    "input gate.md",
-    "output&hidden state.md",
-    "Long term state.md",
-    "output gate.md",
-    "forget gate.md",
-    "gate.md",
-    "RNN의 중첩 딥 러닝.md",
-    "skip-connection.md",
-    "ResNet.md",
-    "RNN 의 기울기 소실.md",
     "Squeeze"
   ]
 }
