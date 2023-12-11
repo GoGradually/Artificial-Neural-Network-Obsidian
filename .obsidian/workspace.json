@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention model.md",
-                "mode": "source",
+                "file": "ResNet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention model.md",
+                "file": "ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention model.md",
+                "file": "ResNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention model.md"
+                "file": "ResNet.md"
               }
             }
           }
@@ -147,14 +147,18 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
-    "Pasted image 20231211165006.png",
+    "Transformers.md",
+    "ResNet.md",
+    "Residual Block.md",
+    "Bottleneck Architecture.md",
+    "skip-connection.md",
     "인공 신경망.md",
+    "Attention model.md",
+    "Pasted image 20231211165006.png",
     "합성곱 레이어(Convolution Layer).md",
     "합성곱 신경망(Convolutional Neural Network).md",
     "합성곱.md",
     "합성곱 신경망에서 매개변수 개수 측정 방법.md",
-    "Attention model.md",
-    "Transformers.md",
     "Packed Sequence.md",
     "Pasted image 20231211012805.png",
     "Pasted image 20231211012748.png",
@@ -178,14 +182,10 @@
     "RNNs 의 위상.md",
     "순환 신경망(Recurrent Neural Networks ,RNNs).md",
     "Sequence Data.md",
-    "YOLO(You Only Look Once).md",
-    "Anchor Box Algorithm.md",
-    "Non-max Suppression Algorithm.md",
     "DL16 _classroom_Sequence2Sequence.pdf",
     "Pasted image 20231120004059.png",
     "Pasted image 20231120004012.png",
     "Pasted image 20231120003930.png",
-    "Pasted image 20231117190937.png",
     "Squeeze"
   ]
 }
