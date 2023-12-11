@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "Attention model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "Attention model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인공 신경망.md",
+                "file": "Attention model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인공 신경망.md"
+                "file": "Attention model.md"
               }
             }
           }
@@ -147,10 +147,11 @@
   },
   "active": "9429d533a0117645",
   "lastOpenFiles": [
+    "Pasted image 20231211165006.png",
+    "인공 신경망.md",
     "합성곱 레이어(Convolution Layer).md",
     "합성곱 신경망(Convolutional Neural Network).md",
     "합성곱.md",
-    "인공 신경망.md",
     "합성곱 신경망에서 매개변수 개수 측정 방법.md",
     "Attention model.md",
     "Transformers.md",
@@ -180,7 +181,6 @@
     "YOLO(You Only Look Once).md",
     "Anchor Box Algorithm.md",
     "Non-max Suppression Algorithm.md",
-    "IoU.md",
     "DL16 _classroom_Sequence2Sequence.pdf",
     "Pasted image 20231120004059.png",
     "Pasted image 20231120004012.png",
